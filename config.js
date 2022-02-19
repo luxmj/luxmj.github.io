@@ -54,7 +54,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'Github',
-      icon: 'github',
+      icon: 'zapoff',
       link: 'https://luxmj.github.io/',
     },
     {
