@@ -20,10 +20,10 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!-002',
+  greetingNight: 'Go to Sleep!-004',
 
   // Layout
-  bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: 'b4e85a1816a47437c0bc5abc78f7c76e', // Write here your API Key
@@ -132,6 +132,12 @@ const CONFIG = {
       icon: 'figma',
       link: '',
     },
+    {
+      id: '7',
+      name: 'Figma',
+      icon: 'bluetooth',
+      link: '',
+    },
   ],
 
   // ┬  ┬┌─┐┌┬┐┌─┐
@@ -145,19 +151,27 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Inspirational',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Classic',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Oldies',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Rock',
+          name: 'Blank',
+          link: '',
+        },
+        {
+          name: 'Blank',
+          link: '',
+        },
+        {
+          name: 'Blank',
           link: '',
         },
       ],
@@ -167,19 +181,27 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Dribbble',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Trello',
+          name: 'Blank',
           link: '',
         },
         {
           name: 'Slack',
+          link: '',
+        },
+        {
+          name: 'Blank',
+          link: '',
+        },
+        {
+          name: 'Blank',
           link: '',
         },
       ],
@@ -193,19 +215,27 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Spotify',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Reddit',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Hashnode',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Pocket',
+          name: 'Slack',
+          link: '',
+        },
+        {
+          name: 'Blank',
+          link: '',
+        },
+        {
+          name: 'Blank',
           link: '',
         },
       ],
@@ -215,19 +245,27 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Front',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Rust',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Go',
+          name: 'Blank',
           link: '',
         },
         {
-          name: 'Repos',
+          name: 'Slack',
+          link: '',
+        },
+        {
+          name: 'Blank',
+          link: '',
+        },
+        {
+          name: 'Blank',
           link: '',
         },
       ],
