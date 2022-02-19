@@ -20,10 +20,10 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!-004',
+  greetingNight: 'Go to Sleep!-005',
 
   // Layout
-  bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: 'b4e85a1816a47437c0bc5abc78f7c76e', // Write here your API Key
