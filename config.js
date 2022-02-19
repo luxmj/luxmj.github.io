@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Layout
-  bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: 'b4e85a1816a47437c0bc5abc78f7c76e', // Write here your API Key
@@ -54,7 +54,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'Github',
-      icon: 'zapoff',
+      icon: 'github',
       link: 'https://luxmj.github.io/',
     },
     {
