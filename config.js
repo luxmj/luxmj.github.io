@@ -87,24 +87,6 @@ const CONFIG = {
       icon: 'youtube',
       link: 'https://odysee.com/',
     },
-    {
-      id: '7',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://baidu.com/',
-    },
-    {
-      id: '8',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://baidu.com/',
-    },
-    {
-      id: '9',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://baidu.com/',
-    },
   ],
 
   secondButtonsContainer: [
