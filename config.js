@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Go to Sleep!-0220',
 
   // Layout
   bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
@@ -89,7 +89,7 @@ const CONFIG = {
     },
     {
       id: '7',
-      name: 'Odysee',
+      name: 'Alarm',
       icon: 'alarm-check',
       link: '',
     },
