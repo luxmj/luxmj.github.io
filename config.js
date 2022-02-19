@@ -99,7 +99,7 @@ const CONFIG = {
     {
       id: '2',
       name: 'twitter',
-      icon: 'Bluetooth',
+      icon: 'activity',
       link: 'https://twitter.com/',
     },
     {
