@@ -54,13 +54,13 @@ const CONFIG = {
     {
       id: '1',
       name: 'Github',
-      icon: 'github',
+      icon: 'Download',
       link: 'https://baidu.com/',
     },
     {
       id: '2',
       name: 'Mail',
-      icon: 'activity',
+      icon: 'mail',
       link: 'https://mail.google.com/',
     },
     {
@@ -99,7 +99,7 @@ const CONFIG = {
     {
       id: '2',
       name: 'twitter',
-      icon: 'twitter',
+      icon: 'Webcam',
       link: 'https://sohu.com/',
     },
     {
