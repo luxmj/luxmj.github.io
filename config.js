@@ -87,6 +87,12 @@ const CONFIG = {
       icon: 'youtube',
       link: '',
     },
+    {
+      id: '7',
+      name: 'Odysee',
+      icon: 'alarm-check',
+      link: '',
+    },
   ],
 
   secondButtonsContainer: [
