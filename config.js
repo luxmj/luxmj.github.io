@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Layout
-  bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: 'b4e85a1816a47437c0bc5abc78f7c76e', // Write here your API Key
@@ -54,7 +54,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'Github',
-      icon: 'Download',
+      icon: 'github',
       link: 'https://baidu.com/',
     },
     {
@@ -99,7 +99,7 @@ const CONFIG = {
     {
       id: '2',
       name: 'twitter',
-      icon: 'Webcam',
+      icon: 'twitter',
       link: 'https://sohu.com/',
     },
     {
