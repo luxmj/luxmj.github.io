@@ -55,13 +55,13 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://luxmj.github.io/',
+      link: 'https://baidu.com/',
     },
     {
       id: '2',
       name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      icon: 'activity',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
@@ -99,7 +99,7 @@ const CONFIG = {
     {
       id: '2',
       name: 'twitter',
-      icon: 'activity',
+      icon: 'twitter',
       link: 'https://sohu.com/',
     },
     {
