@@ -127,7 +127,7 @@ body {
 }
 
 .timeBlock {
-  grid-row: 1 / span 2;
+  grid-row: 1 / span 1;
   grid-column: 1 / span 2;
   display: flex;
   flex-direction: column;
@@ -137,7 +137,7 @@ body {
 
 .weatherBlock {
   grid-column: 3 / span 2;
-  grid-row: 1 / span 2;
+  grid-row: 1 / span 1;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -214,7 +214,7 @@ body {
 }
 
 .linksBlock {
-  grid-row: 3 / span 2;
+  grid-row: 2 / span 4;
   grid-column: 1 / span 4;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -223,12 +223,12 @@ body {
 }
 
 .linksBlockLeft {
-  grid-row: 1 / span 2;
+  grid-row: 1 / span 4;
   grid-column: 1 / span 2;
 }
 
 .linksBlockRight {
-  grid-row: 1 / span 2;
+  grid-row: 1 / span 4;
   grid-column: 3 / span 2;
 }
 
