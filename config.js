@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!-0303',
+  greetingNight: 'Go to Sleep!-0325',
 
   // Layout
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -93,6 +93,18 @@ const CONFIG = {
       icon: 'alarm-check',
       link: '',
     },
+    {
+      id: '8',
+      name: 'Alarm',
+      icon: 'alarm-check',
+      link: '',
+    },
+    {
+      id: '9',
+      name: 'Alarm',
+      icon: 'alarm-check',
+      link: '',
+    },
   ],
 
   secondButtonsContainer: [
@@ -138,6 +150,18 @@ const CONFIG = {
       icon: 'bluetooth',
       link: '',
     },
+    {
+      id: '8',
+      name: 'Alarm',
+      icon: 'alarm-check',
+      link: '',
+    },
+    {
+      id: '9',
+      name: 'Alarm',
+      icon: 'alarm-check',
+      link: '',
+    },
   ],
 
   // ┬  ┬┌─┐┌┬┐┌─┐
@@ -174,6 +198,10 @@ const CONFIG = {
           name: 'Blank06',
           link: '',
         },
+        {
+          name: 'Blank07',
+          link: '',
+        },
       ],
     },
     {
@@ -181,27 +209,31 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Blank',
+          name: 'Blank11',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank12',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank13',
           link: '',
         },
         {
-          name: 'Slack',
+          name: 'Blank14',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank15',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank16',
+          link: '',
+        },
+        {
+          name: 'Blank17',
           link: '',
         },
       ],
@@ -215,27 +247,31 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Blank',
+          name: 'Blank11',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank12',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank13',
           link: '',
         },
         {
-          name: 'Slack',
+          name: 'Blank14',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank15',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank16',
+          link: '',
+        },
+        {
+          name: 'Blank17',
           link: '',
         },
       ],
@@ -245,27 +281,31 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Blank',
+          name: 'Blank11',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank12',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank13',
           link: '',
         },
         {
-          name: 'Slack',
+          name: 'Blank14',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank15',
           link: '',
         },
         {
-          name: 'Blank',
+          name: 'Blank16',
+          link: '',
+        },
+        {
+          name: 'Blank17',
           link: '',
         },
       ],
