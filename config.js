@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'luxmj',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -26,14 +26,14 @@ const CONFIG = {
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+  weatherKey: 'b4e85a1816a47437c0bc5abc78f7c76e', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
-  language: 'en', // More languages in https://openweathermap.org/current#multi
+  language: 'zh_cn', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '31.1552',
+  defaultLongitude: '121.6420',
 
   // Autochange
   autoChangeTheme: true,
@@ -42,8 +42,8 @@ const CONFIG = {
   changeThemeByOS: true,
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
-  changeThemeByHour: false,
-  hourDarkThemeActive: '18:30',
+  changeThemeByHour: true,
+  hourDarkThemeActive: '19:00',
   hourDarkThemeInactive: '07:00',
 
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
@@ -55,7 +55,7 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://luxmj.github.io/',
     },
     {
       id: '2',
