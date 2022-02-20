@@ -53,9 +53,9 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/migueravila/Bento/',
+      name: 'Synology DS920+',
+      icon: 'server',
+      link: 'http://ds920.104918.xyz:5000/',
     },
     {
       id: '2',
@@ -96,13 +96,13 @@ const CONFIG = {
     {
       id: '8',
       name: 'Alarm',
-      icon: 'alarm-check',
+      icon: 'https://lucide.dev/',
       link: '',
     },
     {
       id: '9',
       name: 'Alarm',
-      icon: 'alarm-check',
+      icon: 'https://github.com/migueravila/Bento/',
       link: '',
     },
   ],
