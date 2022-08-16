@@ -55,7 +55,7 @@ const CONFIG = {
       id: '1',
       name: 'Synology DS920+',
       icon: 'server',
-      link: 'http://ds920.104918.xyz:5000/',
+      link: 'https://ds920.104918.xyz:5001/',
     },
     {
       id: '2',
