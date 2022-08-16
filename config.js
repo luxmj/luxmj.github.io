@@ -107,6 +107,7 @@ const CONFIG = {
     },
   ],
 
+  // 第二个可以忽略
   secondButtonsContainer: [
     {
       id: '1',
@@ -205,42 +206,42 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'coffee',
+      icon: 'rocket',
       id: '2',
       links: [
         {
-          name: 'Blank11',
+          name: 'Synthing',
+          link: 'https://ds920.104918.xyz:8384/',
+        },
+        {
+          name: '',
           link: '',
         },
         {
-          name: 'Blank12',
+          name: '',
           link: '',
         },
         {
-          name: 'Blank13',
+          name: '',
           link: '',
         },
         {
-          name: 'Blank14',
+          name: '',
           link: '',
         },
         {
-          name: 'Blank15',
+          name: '',
           link: '',
         },
         {
-          name: 'Blank16',
-          link: '',
-        },
-        {
-          name: 'Blank17',
+          name: '',
           link: '',
         },
       ],
     },
   ],
 
-  // Second Links Container
+  // Second Links Container 这些可以忽略
   secondListsContainer: [
     {
       icon: 'binary',
