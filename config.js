@@ -210,12 +210,12 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Synthing',
-          link: 'https://ds920.104918.xyz:8384/',
+          name: 'Download Station',
+          link: 'https://ds920.104918.xyz:5001/',
         },
         {
-          name: 'Blank',
-          link: 'https://ds920.104918.xyz:5001/',
+          name: 'Synthing',
+          link: 'https://ds920.104918.xyz:8001/',
         },
         {
           name: 'Blank',
