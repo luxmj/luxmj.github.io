@@ -95,15 +95,15 @@ const CONFIG = {
     },
     {
       id: '8',
-      name: 'Alarm',
-      icon: 'https://lucide.dev/',
-      link: '',
+      name: '008',
+      icon: 'album',
+      link: 'https://lucide.dev/',
     },
     {
       id: '9',
-      name: 'Alarm',
-      icon: 'https://github.com/migueravila/Bento/',
-      link: '',
+      name: '009',
+      icon: 'cherry',
+      link: 'https://github.com/migueravila/Bento/',
     },
   ],
 
@@ -184,16 +184,16 @@ const CONFIG = {
           link: 'https://ds920.104918.xyz:5443/',
         },
         {
+          name: 'Synology Drive',
+          link: 'https://ds920.104918.xyz:10003/',
+        },
+        {
           name: 'Audio Station',
           link: 'https://ds920.104918.xyz:8801/',
         },
         {
           name: 'File Station',
           link: 'https://ds920.104918.xyz:7001/',
-        },
-        {
-          name: 'Synology Drive',
-          link: 'https://ds920.104918.xyz:10003/',
         },
         {
           name: 'Video Station',
@@ -214,28 +214,28 @@ const CONFIG = {
           link: 'https://ds920.104918.xyz:8384/',
         },
         {
-          name: '',
-          link: '',
+          name: 'Blank',
+          link: 'https://ds920.104918.xyz:5001/',
         },
         {
-          name: '',
-          link: '',
+          name: 'Blank',
+          link: 'https://ds920.104918.xyz:5001/',
         },
         {
-          name: '',
-          link: '',
+          name: 'Blank',
+          link: 'https://ds920.104918.xyz:5001/',
         },
         {
-          name: '',
-          link: '',
+          name: 'Blank',
+          link: 'https://ds920.104918.xyz:5001/',
         },
         {
-          name: '',
-          link: '',
+          name: 'Blank',
+          link: 'https://ds920.104918.xyz:5001/',
         },
         {
-          name: '',
-          link: '',
+          name: 'Blank',
+          link: 'https://ds920.104918.xyz:5001/',
         },
       ],
     },
