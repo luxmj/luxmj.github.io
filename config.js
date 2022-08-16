@@ -171,9 +171,13 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'server',
       id: '1',
       links: [
+        {
+          name: 'Synology NAS',
+          link: 'https://ds920.104918.xyz:5001/',
+        },
         {
           name: 'Synology Photos',
           link: 'https://ds920.104918.xyz:5443/',
@@ -195,12 +199,8 @@ const CONFIG = {
           link: 'https://ds920.104918.xyz:9008/',
         },
         {
-          name: 'Blank06',
-          link: '',
-        },
-        {
-          name: 'Blank07',
-          link: '',
+          name: 'Note Station',
+          link: 'https://ds920.104918.xyz:9351/',
         },
       ],
     },
