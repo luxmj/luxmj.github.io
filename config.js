@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Layout
-  bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: 'b4e85a1816a47437c0bc5abc78f7c76e', // Write here your API Key
@@ -175,24 +175,24 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Blank01',
-          link: '',
+          name: 'Synology Photos',
+          link: 'https://ds920.104918.xyz:5443/',
         },
         {
-          name: 'Blank02',
-          link: '',
+          name: 'Audio Station',
+          link: 'https://ds920.104918.xyz:8801/',
         },
         {
-          name: 'Blank03',
-          link: '',
+          name: 'File Station',
+          link: 'https://ds920.104918.xyz:7001/',
         },
         {
-          name: 'Blank04',
-          link: '',
+          name: 'Synology Drive',
+          link: 'https://ds920.104918.xyz:10003/',
         },
         {
-          name: 'Blank05',
-          link: '',
+          name: 'Video Station',
+          link: 'https://ds920.104918.xyz:9008/',
         },
         {
           name: 'Blank06',
