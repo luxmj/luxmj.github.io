@@ -36,14 +36,14 @@ const CONFIG = {
   defaultLongitude: '121.596296',
 
   // Autochange
-  autoChangeTheme: false,
+  autoChangeTheme: true,
 
   // Autochabge by OS
   changeThemeByOS: true,
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
   changeThemeByHour: true,
-  hourDarkThemeActive: '19:00',
+  hourDarkThemeActive: '06:00',
   hourDarkThemeInactive: '07:00',
 
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
