@@ -53,7 +53,7 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'Synology DS920+',
+      name: 'Synology NAS',
       icon: 'server',
       link: 'https://ds920.104918.xyz:5001/',
     },
@@ -176,10 +176,6 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Synology NAS',
-          link: 'https://ds920.104918.xyz:5001/',
-        },
-        {
           name: 'Synology Photos',
           link: 'https://ds920.104918.xyz:5443/',
         },
@@ -203,6 +199,10 @@ const CONFIG = {
           name: 'Note Station',
           link: 'https://ds920.104918.xyz:9351/',
         },
+        {
+          name: 'Download Station',
+          link: 'https://ds920.104918.xyz:5001/',
+        },
       ],
     },
     {
@@ -216,6 +216,10 @@ const CONFIG = {
         {
           name: 'Synthing',
           link: 'https://ds920.104918.xyz:8001/',
+        },
+        {
+          name: 'Blank',
+          link: 'https://ds920.104918.xyz:5001/',
         },
         {
           name: 'Blank',
