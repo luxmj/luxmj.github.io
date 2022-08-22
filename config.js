@@ -43,7 +43,7 @@ const CONFIG = {
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
   changeThemeByHour: true,
-  hourDarkThemeActive: '06:00',
+  hourDarkThemeActive: '19:00',
   hourDarkThemeInactive: '07:00',
 
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
@@ -201,7 +201,7 @@ const CONFIG = {
         },
         {
           name: 'Download Station',
-          link: 'https://ds920.104918.xyz:5001/',
+          link: 'https://ds920.104918.xyz:8001/',
         },
       ],
     },
@@ -210,12 +210,8 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Download Station',
-          link: 'https://ds920.104918.xyz:5001/',
-        },
-        {
           name: 'Synthing',
-          link: 'https://ds920.104918.xyz:8001/',
+          link: 'https://ds920.104918.xyz:8384/',
         },
         {
           name: 'Blank',
