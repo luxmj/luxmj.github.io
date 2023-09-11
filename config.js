@@ -67,7 +67,7 @@ const CONFIG = {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: '',
+      link: 'https://chat.104918.xyz/',
     },
     {
       id: '4',
