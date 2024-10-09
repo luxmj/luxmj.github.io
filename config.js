@@ -211,7 +211,7 @@ const CONFIG = {
       links: [
         {
           name: 'Synthing',
-          link: 'https://ds920.104918.xyz:8384/',
+          link: 'https://ds920.104918.xyz:8385/',
         },
         {
           name: 'Blank',
